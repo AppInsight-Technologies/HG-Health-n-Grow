@@ -77,12 +77,12 @@ class ColorCodes {
   static Color footertext= Color(0xff5983F9);
   static Color footertitle= Color(0xff7D7D7D);
 
-  static Color mainheaderColor1 = IConstants.isEnterprise ? Color(0xffa61f62) : Colors.white;
-  static Color mainheaderColor2 = IConstants.isEnterprise ? Color(0xffa61f62) : Colors.white;
+  static Color mainheaderColor1 = IConstants.isEnterprise ? Color(0xffa41f62) : Colors.white;
+  static Color mainheaderColor2 = IConstants.isEnterprise ? Color(0xffa41f62) : Colors.white;
   static Color headerIconColor = IConstants.isEnterprise && !Features.ismultivendor?IConstants.isEnterprise && !Features.isWebTrail ? Colors.white : ColorCodes.greenColor:ColorCodes.blackColor;
 
-  static Color primaryColor = IConstants.isEnterprise ? Color(0xffa61f62) : Colors.white;
-  static Color accentColor = IConstants.isEnterprise ? Color(0xffa61f62) : Colors.white;
+  static Color primaryColor = IConstants.isEnterprise ? Color(0xffa41f62) : Colors.white;
+  static Color accentColor = IConstants.isEnterprise ? Color(0xffa41f62) : Colors.white;
   static Color searchText = IConstants.isEnterprise ? Color(0xff5E9CC7) : blackColor;
   static Color searchIcon = IConstants.isEnterprise ? whiteColor :  blackColor;
   static Color menuColor = IConstants.isEnterprise ? blackColor : blackColor;

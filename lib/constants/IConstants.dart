@@ -12,7 +12,7 @@ class IConstants {
   // static String API_PATH = "https://franchise.tokree.co.in/api/app-manager/get-functionality/";
   // static String API_IMAGE = "https://franchise.tokree.co.in/uploads/";
 
-  static String APP_NAME = "HG";
+  static String APP_NAME = "HnGMart";
   static String API_PAYTM = "https://cashfree.grocbay.com/";
 
   static String androidId = "" /* = com.appinsight.gbay"*/;

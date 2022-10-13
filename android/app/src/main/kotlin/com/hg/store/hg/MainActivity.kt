@@ -1,4 +1,4 @@
-package com.hg.store
+package com.ankiom.hngmart
 
 import io.flutter.embedding.android.FlutterActivity
 

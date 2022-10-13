@@ -923,7 +923,7 @@ class _ItemsScreenState extends State<ItemsScreen> with TickerProviderStateMixin
                                                                        .toString())
                                                                    ? ColorCodes
                                                                    .grey
-                                                                   : IConstants.isEnterprise? ColorCodes.primaryColor:ColorCodes.liteColor),
+                                                                   : IConstants.isEnterprise?/* ColorCodes.primaryColor*/ColorCodes.blackColor:ColorCodes.liteColor),
                                                          ),
                                                          SizedBox(
                                                            width: 5,

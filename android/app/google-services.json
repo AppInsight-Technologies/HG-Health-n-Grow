@@ -7,9 +7,75 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:522079443485:android:3d3fc0e22a7edd98cf04f4",
+        "android_client_info": {
+          "package_name": "com.ankiom.hngmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522079443485-huqa6oi143bkomf9kurhhfa49btpgjcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64aakqOIQyeSAvARUq4iICj2e5pg_OAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522079443485-huqa6oi143bkomf9kurhhfa49btpgjcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:522079443485:android:850cbb42013773dfcf04f4",
         "android_client_info": {
           "package_name": "com.hg.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522079443485-pp1o0s5a1jp45k61l1ng842j570hgpak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hg.store",
+            "certificate_hash": "88a83abce9503f89ddcaa2a2040211aded88425e"
+          }
+        },
+        {
+          "client_id": "522079443485-huqa6oi143bkomf9kurhhfa49btpgjcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC64aakqOIQyeSAvARUq4iICj2e5pg_OAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522079443485-huqa6oi143bkomf9kurhhfa49btpgjcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522079443485:android:4e8e3f6c0e7c5930cf04f4",
+        "android_client_info": {
+          "package_name": "com.hgdelivery.store"
         }
       },
       "oauth_client": [

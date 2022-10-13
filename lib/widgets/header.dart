@@ -2391,7 +2391,7 @@ class _HeaderState extends State<Header> with Navigations {
                             height: 40,
                             width: MediaQuery.of(context).size.width / 1.7,
                             decoration: BoxDecoration(
-                                color: ColorCodes.varcolor,
+                                color: ColorCodes.whiteColor/*ColorCodes.varcolor*/,
                                 borderRadius: BorderRadius.circular(10),
                                 border: Border.all(color: ColorCodes.lightGreyWebColor)
                             ),
@@ -2401,14 +2401,14 @@ class _HeaderState extends State<Header> with Navigations {
                               children: [
                                 Icon(
                                     Icons.search,
-                                    color: ColorCodes.primaryColor,
+                                    color: ColorCodes.blackColor/*ColorCodes.primaryColor*/,
                                     size: 22
                                 ),
                                 SizedBox(width: 5),
                                 Text(
                                   S.current.search_from_products,//" Search From 10,000+ products",
                                   style: TextStyle(
-                                    color: ColorCodes.primaryColor,
+                                    color: ColorCodes.blackColor/*ColorCodes.primaryColor*/,
                                     fontSize: 12.0,
                                     fontWeight: FontWeight.w600,
                                   ),

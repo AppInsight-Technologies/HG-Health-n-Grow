@@ -60,7 +60,7 @@ class MessageLookup extends MessageLookupByLibrary {
         "Wednesday": MessageLookupByLibrary.simpleMessage("Wednesday"),
         "Yay": MessageLookupByLibrary.simpleMessage("Yay!Free Delivery"),
         "about": MessageLookupByLibrary.simpleMessage("About"),
-        "about_us": MessageLookupByLibrary.simpleMessage("About us"),
+        "about_us": MessageLookupByLibrary.simpleMessage("About Us"),
         "active": MessageLookupByLibrary.simpleMessage("Active"),
         "active_subscription":
             MessageLookupByLibrary.simpleMessage("Active Subscriptions"),

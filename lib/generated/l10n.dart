@@ -50,10 +50,10 @@ class S {
     return Localizations.of<S>(context, S);
   }
 
-  /// `About us`
+  /// `About Us`
   String get about_us {
     return Intl.message(
-      'About us',
+      'About Us',
       name: 'about_us',
       desc: '',
       args: [],

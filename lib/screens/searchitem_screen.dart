@@ -405,7 +405,7 @@ class _SearchitemScreenState extends State<SearchitemScreen> with Navigations{
                                                                         color: ColorCodes.varcolor,
                                                                         child: Text(e.itemName!,
                                                                           style: TextStyle(
-                                                                              color: ColorCodes.primaryColor,
+                                                                              color: ColorCodes.blackColor/*ColorCodes.primaryColor*/,
                                                                               fontWeight: FontWeight.w700,
                                                                               fontSize:
                                                                               12.0),
@@ -611,7 +611,7 @@ class _SearchitemScreenState extends State<SearchitemScreen> with Navigations{
                       IconButton(
                         icon: Icon(
                           Icons.search,
-                          color: ColorCodes.primaryColor,
+                          color: ColorCodes.blackColor/*ColorCodes.primaryColor*/,
                         ), onPressed: () {  },
                       ),
                       Container(
